@@ -1,0 +1,2 @@
+1st Command =====> npx react-native init firstproject
+2nd Command =====> npx react-native run android || npm run android
